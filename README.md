@@ -7,7 +7,7 @@ API - 5º SEMESTRE ADS - 2023 </h1>
 
 <p align="justify"> Como parte das atividades previstas para a Primeira Sprint da API - 5º Semestre da Equipe Peônia, este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
 
-<h2><p align="justify"> Dessa forma, a estrutura de persistência de dados do projeto segue o seguinte escopo:</p></h2>
+<h2><p align="justify"> Dessa forma, a estrutura de persistência de dados segue o seguinte escopo:</p></h2>
 
 <p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos usuários em Banco SQL - Postgres / MySQL - MongoDB;</p>
 
