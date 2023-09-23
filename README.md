@@ -4,9 +4,9 @@
 
 <h2> :dart: Objetivo</h2>
 
-<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da API 5º Semestre - FATEC, este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
+<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da [API - 5º SEMESTRE FATEC](https://github.com/peonia-api/API_5_Semestre), este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
 
-[API - 5º SEMESTRE FATEC](https://github.com/peonia-api/API_5_Semestre)
+
 
 <p align="justify"> Dessa forma, a estrutura de persistência de dados do projeto segue o seguinte escopo:</p>
 
