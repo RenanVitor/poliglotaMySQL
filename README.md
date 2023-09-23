@@ -13,9 +13,9 @@ API - 5º SEMESTRE ADS - 2023 </h1>
 
 <p align="justify"> 🖥️ Dessa forma, a estrutura de persistência de dados segue o seguinte escopo:</p>
 
-<p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos usuários em Banco SQL - Postgres / MySQL - MongoDB;</p>
+<p align="justify"> :clipboard: **Persistência dos dados relativos aos dados dos usuários em Banco SQL - Postgres / MySQL - MongoDB;**</p>
 
-<p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos equipamentos em Banco NoSQL - MongoDB;</p>
+<p align="justify"> :clipboard: **Persistência dos dados relativos aos dados dos equipamentos em Banco NoSQL - MongoDB;**</p>
 
 
 <h5 align="center"> Aprendizagem por Projetos Integrados - Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal </h5>
