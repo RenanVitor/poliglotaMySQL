@@ -4,12 +4,18 @@
 
 <h2> :dart: Objetivo</h2>
 
-<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint1.MD), este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
+<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da API 5º Semestre - FATEC, este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
+
+[API - 5º SEMESTRE FATEC](https://github.com/peonia-api/API_5_Semestre)
 
 <p align="justify"> Dessa forma, a estrutura de persistência de dados do projeto segue o seguinte escopo:</p>
+
+
 
 <p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos usuários em Banco SQL - Postgres / MySQL - MongoDB;</p>
 
 <p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos equipamentos em Banco NoSQL - MongoDB;</p>
+
+
 
 <h5 align="center"> Aprendizagem por Projetos Integrados - Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal </h5>
