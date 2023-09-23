@@ -1,7 +1,7 @@
 <h1 align="center">EQUIPE PEÔNIA
 API - 5º SEMESTRE ADS - 2023 </h1>
 
-<h1 align="center"> IMPLEMENTAÇÃO DE BANCO POLIGLOTA - PERSISTÊNCIA DE USUÁRIOS EM POSTGRES</h1>
+<h1 align="center"> Implementação de Banco Poliglota - Persistência de Usuários no Postgres</h1>
 
 <h2> :dart: Objetivo</h2>
 
