@@ -11,7 +11,7 @@ API - 5º SEMESTRE ADS - 2023 </h1>
 
 :dart: [Clique aqui para ir ao repositório da API - 5º Semestre](https://github.com/peonia-api/API_5_Semestre)
 
-<p align="justify"> :🖥️: Dessa forma, a estrutura de persistência de dados segue o seguinte escopo:</p>
+<p align="justify"> 🖥️ Dessa forma, a estrutura de persistência de dados segue o seguinte escopo:</p>
 
 <p align="justify"> :clipboard: Persistência dos dados relativos aos dados dos usuários em Banco SQL - Postgres / MySQL - MongoDB;</p>
 
