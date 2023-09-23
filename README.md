@@ -4,7 +4,7 @@
 
 <h2> :dart: Objetivo</h2>
 
-<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da [API - 2º SEM 2023](https://github.com/peonia-api/API_5_Semestre), este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
+<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da [Ver relatório](https://github.com/peonia-api/API_5_Semestre/blob/main/reports/Sprint1.MD), este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
 
 <p align="justify"> Dessa forma, a estrutura de persistência de dados do projeto segue o seguinte escopo:</p>
 
