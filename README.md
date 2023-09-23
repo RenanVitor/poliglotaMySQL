@@ -1,10 +1,10 @@
-<h1 align="center"> API - 5º Semestre</h1>
+<h1 align="center"> [API - 5º SEMESTRE FATEC](https://github.com/peonia-api/API_5_Semestre)</h1>
 
 <h1 align="center"> IMPLEMENTAÇÃO DE BANCO POLIGLOTA</h1>
 
 <h2> :dart: Objetivo</h2>
 
-<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da [API - 5º SEMESTRE FATEC](https://github.com/peonia-api/API_5_Semestre), este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
+<p align="justify"> Como parte das atividades previstas para a Primeira Sprint da , este repositório tem como finalidade o cumprimento da Task de Implementação do Banco Poliglota.</p>
 
 
 
